@@ -43,18 +43,44 @@
 ## Ethereum
 1. [Blockchain Learning Path - Roadmap 1](https://github.com/protofire/blockchain-learning-path)
 2. [DeFi Developer Road Map - Roadmap 2](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+3. [EVM Basics - Official Docs](https://ethereum.org/en/developers/docs/evm/)
+4. [Ethereum Book](https://github.com/ethereumbook/ethereumbook)
+5. [How does Ethereum work, anyway?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#:~:text=The%20Ethereum%20blockchain%20uses%20an,tokens%20are%20generated%20and%20awarded.)
 
 ## Solidity
-
-1. [Professional Solidity development blog](https://soliditydeveloper.com/)
+1. [Introduction to Smart Contracts - Official Docs](https://docs.soliditylang.org/en/v0.8.15/introduction-to-smart-contracts.html)
 2. [Full blockchain solidity course + JS](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) (Beginner to Expert)
+3. [Udemy Course - Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+4. [Smart Contract Programmer - YouTube Channel](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+5. [EatTheBlocks - YouTube Channel](https://www.youtube.com/c/EatTheBlocks)
+6. [Learn X in Y minutes / Where X=Solidity](https://learnxinyminutes.com/docs/solidity/)
+7. [Professional Solidity development blog](https://soliditydeveloper.com/) (must visit)
 
-## Security 
-1. [Hacking, Distributed](https://hackingdistributed.com/)
+
+## (Anti-)Patterns and Best practices, Security
+1. [Ethereum Smart Contract Security Best Practices - Consensys](https://consensys.github.io/smart-contract-best-practices/)
+2. [Not So Smart Contracts](https://github.com/crytic/not-so-smart-contracts)
+3. [Solidity Patterns](https://github.com/fravoll/solidity-patterns) 
+4. [Solidity Security Blog](https://github.com/sigp/solidity-security-blog)
+5. [Hacking, Distributed](https://hackingdistributed.com/)
+
+## Practice
+- [ethernaut](https://ethernaut.openzeppelin.com/)
+
+
+## Cryptography
+- [Cryptography - Stanford CS Theory](http://theory.stanford.edu/~trevisan/books/crypto.pdf)
+- [PK Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4&ab_channel=Computerphile)
+- [What are Digital Signatures and How Do They Work?](https://www.youtube.com/watch?v=JR4_RBb8A9Q&ab_channel=Lisk)
 
 ### Multitopic Articles 
 
 - [0xCode Medium](https://medium.com/0xcode)
+- [Forklog](https://forklog.com/cards/)
+
+### Docs
+
+- [Smart Contract Security Audit](https://docs.google.com/document/d/1p3fItqM48Q51OdD9pq0OOrGcLxHq0NlVAoNozuC-ouk/edit?usp=sharing)
 
 
 # React 
@@ -97,7 +123,8 @@
 2.
 
 # Git
-1. [Git Snippets](https://www.30secondsofcode.org/git/p/1)
+1. [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
+2. [Git Snippets](https://www.30secondsofcode.org/git/p/1)
 
 # Overall Cheat Sheets
 
